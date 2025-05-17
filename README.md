@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeiosorio
 - 👀 I’m interested in javascript stacks
-- 🌱 I’m currently learning about MicroComponents and CI/CD
+- 🌱 I’m currently learning about Microfrontends and CI/CD
 
 <!---
 yeiosorio/yeiosorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
